@@ -19,6 +19,6 @@ Why are flights and trips not treated like any other product I purchase at a sto
 
 <hr class="short">
 
-Have also had a bad experiences with opodo? Send us your <a href="badexperiences@nopodo.net">experience</a>.
+Have also had a bad experiences with opodo? Send us your <a href="mailto:badexperiences@nopodo.net">experience</a>.
 
 P.S. opodo marketing department don't both sending fake positive customer experiences.
