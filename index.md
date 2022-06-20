@@ -3,7 +3,7 @@ permalink: /
 layout: default
 ---
 
-<img class=logo src="/f/i/logo.svg"/>
+<img class=logo src="/f/i/logo.svg?cb={{ "now" | date: "%s" }}"/>
 
 <hr class="short">
 
