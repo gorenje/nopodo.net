@@ -38,6 +38,26 @@ Thanks opodo for that.
 
 <hr class="short">
 
+Turns out I'm not the only one who has had a bad experience with Opodo, from [Wikipedia](https://en.wikipedia.org/w/index.php?title=Opodo&oldid=1077423334#Criticism)
+
+> As of 2022, Opodo.com and opodo.co.uk have a “poor” rating of 2.7 stars out 5 on the online review platform Trustpilot, and a rating of 1.1 out of 5 on the review platform Reviewcentre.
+
+Ironically if you go to Trustpilot today, Opodo has a rating of [3.0](https://www.trustpilot.com/review/www.opodo.com) however going back to [Wikipedia](https://en.wikipedia.org/w/index.php?title=Trustpilot&oldid=1094745778#Criticism), it seems that Trustpilot allows companies to fake their ratings:
+
+> Trustpilot allows businesses to pay them to access its marketing services and use Trustpilot technology to filter reviews—normally selecting only favourable posts—that customers place on their own Web site or other places. This may violate certain laws or regulations.
+
+So it seems that opodo is doing it's best to gun the system to improve their rating on Trustpilot. Good job getting 0.3 "stars" added to the rating - in six months.
+
+[Wikipedia](https://en.wikipedia.org/w/index.php?title=Opodo&oldid=1077423334#Criticism) has quite a bit to say about Opodo:
+
+> The UK consumer association "Which?" recommends members not to use Opodo. The majority of customer complaints focus on a serious lack of responsiveness from the Opodo customer care team, for instance not receiving a reply to an email in over a month, for them being "unreachable by phone,".
+
+I can only confirm this but good to know I'm not the only one they seem to treat disrespectfully.
+
+It's just a pity that they don't seem to care about poor ratings or poor customer relations. As I pointed in my previous post, they only react if threatened with the court of social media.
+
+<hr class="short">
+
 Have also had a bad experiences with opodo? Send us your <a href="mailto:badexperiences@nopodo.net">experience</a>.
 
 P.S. opodo marketing department don't both sending fake positive customer experiences.
